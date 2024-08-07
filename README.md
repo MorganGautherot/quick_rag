@@ -17,3 +17,7 @@ ollama pull mistral
 You can use this model with the following command. 
 
 ollama run mistral
+
+References:
+
+The repository was inspired by https://github.com/vndee/local-rag-example/blob/main/rag.py
